@@ -1,7 +1,10 @@
 .header-image {
-  width: 100%;
-  margin-top: -2em;
-  margin-bottom: 2em;
+  border-radius: 25px;
+  display: block;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px
 }
 
 .about-profile-pic {

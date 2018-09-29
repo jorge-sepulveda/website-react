@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import {Helmet} from "react-helmet";
 import './App.css';
 import { BrowserRouter as Router, Route} from 'react-router-dom';
 import Home from './components/Home';
@@ -11,6 +12,7 @@ class App extends Component {
     return (
       <Router>
         <div>
+          <Helmet bodyAttributes={{style: 'background-color : #c0c0c0'}}/>
           <Navbar />
           <Route exact path = "/" component={Home} />
           <Route path = "/about" component={About} />
@@ -19,6 +21,6 @@ class App extends Component {
       </Router>
     );
   }
-}
+}//
 
 export default App;
