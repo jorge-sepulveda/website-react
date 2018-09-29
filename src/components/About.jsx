@@ -28,6 +28,13 @@ export default class About extends Component {
             <p>
             I picked these two minors because I believe I can help people with technology. I would like to apply what I learn to create awesome services or products for people to enjoy.
             </p>
+            <h2>Work Experience</h2>
+            <h3>Texas A&M Agricultural Economics</h3>
+            <p>
+            Performance of help desk duties such as troubleshooting software and hardware, cloning computers, replace malfunctioning hardware on computers and other duties
+            such as helping with A/V setups for the department. Communicating with a team and with staff in order to ensure
+             technology is operating throughout the building.
+            </p>
             <br>
             </br>
             <br>

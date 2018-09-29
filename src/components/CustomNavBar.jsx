@@ -24,6 +24,9 @@ export default class CustomNavBar extends Component {
             <NavItem eventKey = {3} componentClass={Link} href="/news"to="/news">
               News
             </NavItem>
+            <NavItem eventKey = {3} componentClass={Link} href="/contact"to="/contact">
+              Contact
+            </NavItem>
           </Nav>
         </Navbar.Collapse>
       </Navbar>

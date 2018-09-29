@@ -16,6 +16,9 @@ export default class Home extends Component {
           <Link to="/news">
             <Button bsStyle="primary">News</Button>
           </Link>
+          <Link to="/contact">
+            <Button bsStyle="primary">Contact</Button>
+          </Link>
         </Jumbotron>
         <Row className="show-grid text center">
         <Grid>
