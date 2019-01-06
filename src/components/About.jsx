@@ -15,18 +15,15 @@ export default class About extends Component {
             <p>I like all sorts of tech topics like PC hardware, Cybersecurity, AI, Robotics, etc. </p>
             <p>Technology is one of the driving forces of our world and I would like to pitch in and drive innovation in the tech field</p>
             <h2>Education</h2>
-            <p>I am currently a junior attending Texas A&M University. I am majoring in Computing while dual minoring in Cybersecurity and Geographical Information Systems.</p>
-            <p> Computing may be a new major out there so I'll give the main idea for it. The Computer Science department wanted to diversify their students by
+            <p>I am currently a junior attending Texas A&M University. I am majoring in Computing while Specializing in Cybersecurity.</p>
+            <p> Computing is a new major at A&M so I'll explain. The Computer Science department wanted to diversify their students by
                 allowing them to learn other things while learning about the foundations of Computer Science. The Computing major allows students to take other fields of interest
                 so they can combine what they learn with Computer Science to create amazing things.</p>
             <p>Cyber security is a very important topic and it's becomming more of a neccesity in our world. There are more and more companies getting attacked and it is becoming more
                of a priority to protect them. I am minoring in this field to help broaden my perspective and to possibly consider this as a major branch in my career.
             </p>
-            <p>Geographical Information Systems is also a very important field. It is used to identify volcanoes, land use, resource management and a number of other things. After taking my
-              first geography course I gained an interest in the field. I was trying to see how to combine my Computer Science skills with geography and GIS seemed the way to go.
-            </p>
             <p>
-            I picked these two minors because I believe I can help people with technology. I would like to apply what I learn to create awesome services or products for people to enjoy.
+            I was very interested in Computer Science and Cybersecurity. They are very important fields and I'd like to pitch in and help advance technology for the greater good.
             </p>
             <h2>Work Experience</h2>
             <h3>Texas A&M Agricultural Economics</h3>
