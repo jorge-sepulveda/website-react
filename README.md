@@ -5,7 +5,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 visit the site in action here(broken at the moment):
 
-https://jorge-sepulveda.github.io/website-react/
+https://jorge-sepulveda.github.io
 
 ## Table of Contents
 
